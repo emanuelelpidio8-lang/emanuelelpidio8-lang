@@ -159,14 +159,7 @@
 
 ---
 
-<div align="center">
 
-## 📊 LINGUAGENS MAIS USADAS
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=emanuelelpidio8-lang&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" width="40%"/>
-</div>
-
----
 
 <div align="center">
 

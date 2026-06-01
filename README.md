@@ -109,15 +109,7 @@
 
 ---
 
-<div align="center">
 
-## 🏆 CONQUISTAS
-
-<img src="https://github-profile-trophy.vercel.app/?username=emanuelelpidio8-lang&theme=matrix&no-frame=true&no-bg=true&margin-w=8&column=7" width="100%"/>
-
-</div>
-
----
 
 ## 🔥 PROJETOS EM DESTAQUE
 

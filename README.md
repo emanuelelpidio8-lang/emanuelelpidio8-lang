@@ -62,7 +62,7 @@
 <td width="45%" align="center">
 
 <img src="[https://github-readme-stats.vercel.app/api?username=emanuelelpidio8-lang&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=0d1117&title_color=00ffcc&icon_color=00ffcc&text_color=ffffff&include_all_commits=true" width="100%"/>
-](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=emanuelelpidio8-lang&layout=donut&theme=chartreuse-dark&hide_border=true&bg_color=0d1117&title_color=00ffcc&text_color=ffffff&langs_count=8)
+](https://github-readme-stats.vercel.app/api/top-langs/?username=emanuelelpidio8-lang&layout=compact&theme=tokyonight&hide_border=true&langs_count=8
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=emanuelelpidio8-lang&theme=chartreuse-dark&hide_border=true&background=0d1117&stroke=00ffcc&ring=00ffcc&fire=ff6b6b&currStreakLabel=00ffcc" width="100%"/>
 
 </td>
@@ -163,8 +163,7 @@
 
 ## 📊 LINGUAGENS MAIS USADAS
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=emanuelelpidio8-lang&layout=donut&theme=chartreuse-dark&hide_border=true&bg_color=0d1117&title_color=00ffcc&text_color=ffffff&langs_count=8" width="40%"/>
-
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=emanuelelpidio8-lang&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" width="40%"/>
 </div>
 
 ---
